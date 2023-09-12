@@ -1,1 +1,1 @@
-# K-Means_n-o-supervisionado.
+# K-Means_nao-supervisionado.
